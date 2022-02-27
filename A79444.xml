@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The oppressed mans second outcry for justice, to every member of Parliament against the unparallel'd corruptions, and most cruel oppression, tyranny, and incomparable injustice exercised by the Commissioners for Compounding sitting at Haberdashers Hall London, upon Cornet Christopher Cheesman, late agent for sequestrations in the county of Berks the author hereof ...</title>
+            <author>Cheesman, Christopher.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79444</idno>
+            <idno type="STC">Wing C3773C</idno>
+            <idno type="STC">ESTC R173819</idno>
+            <idno type="EEBO-CITATION">45097627</idno>
+            <idno type="OCLC">ocm 45097627</idno>
+            <idno type="VID">171233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171233)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2568:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The oppressed mans second outcry for justice, to every member of Parliament against the unparallel'd corruptions, and most cruel oppression, tyranny, and incomparable injustice exercised by the Commissioners for Compounding sitting at Haberdashers Hall London, upon Cornet Christopher Cheesman, late agent for sequestrations in the county of Berks the author hereof ...</title>
+                  <author>Cheesman, Christopher.</author>
+                  <author>England and Wales. Committee for Compounding with Delinquents.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Committee for Compounding with Delinquents.</term>
+               <term>Attachment and garnishment --  England.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171233:1" rendition="simple:additions"/>
+            <p>The Oppreſſed mans ſecond Outcry FOR JUSTICE, To every individual Member of Parliament Againſt the unparallel'd Corruptions, and moſt cruel Oppreſſion, Tyranny, and incomparable Injuſtice exerciſed by the Commiſſioners for Compounding ſitting at Haberdaſhers Hall <hi>London,</hi>
+            </p>
+            <p>Upon Cornet <hi>Chriſtopher Cheeſman,</hi> late Agent for Sequeſtrations in the County of <hi>Berks,</hi> the Author hereof;</p>
+            <p>Who moſt humbly implores the aſſiſtance of the worthy Mem<g ref="char:EOLhyphen"/>bers and good Patriots of this honourable Councel and Com<g ref="char:EOLhyphen"/>monwealth, and that ſome one or more would move effectu<g ref="char:EOLhyphen"/>ally to have his Petition and Appeal (delivered in to the hands of Mr. Speaker, <hi>Feb.</hi> 24. laſt, againſt the ſaid Commiſſion<g ref="char:EOLhyphen"/>ers) read, and juſtice done according to the truth thereof.</p>
+            <p>This being his fifth application to this Honourable Councel for Juſtice againſt them, and above two yeers of his moſt cruel oppreſſion by reaſon of them, occaſioned by his faithful diſ<g ref="char:EOLhyphen"/>charge of Truſt repoſed in him by Parliament, and under a moſt ſolemn OATH.</p>
+            <q>
+               <bibl>Deut. 1.16.</bibl> 
+               <p>I charged your Judges the ſame time, ſaying, Hear the Contro<g ref="char:EOLhyphen"/>verſies betwixt your brethren, and judge righteous judgement between eve<g ref="char:EOLhyphen"/>ry man and his brother. Ye ſhall have no reſpect of perſons in judgement, but ſhall hear the ſmall as well as the great. Ye ſhall not fear the face of man: for the judgement is Gods.</p>
+            </q>
+            <q>
+               <bibl>1 Kings 8.32,</bibl> 
+               <p>That thou mayeſt condemn the wicked, to bring his wickedneſs upon his own head, and juſtifie the righteous, to give him according to his righteouſneſs.</p>
+            </q>
+            <q>
+               <p>Ye ſhall ſeek judgement among your ſelves, and know what is good, and not cauſe the oppreſſed to cry out for the violence of the mighty. For hath not the Lord ſhewed thee, O man, what is good, and what he requireth of thee? ſurely to do juſtice, and love mercy. <hi>And,</hi> Whatſoever ye would that men ſhould do unto you, even ſo do unto them.</p> 
+               <bibl>Matth. 7.12. Mal. 8. Job 35.9. and 34.4.</bibl>
+            </q>
+            <p>Printed at <hi>London,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171233:2"/>
+            <opener>
+               <salute>Right honorable Senators.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ould God I had not juſt cauſe to cry out for Juſtice in this extreme manner as I have been conſtrained to do, many mouths together, and yet am not heard; yea, though I have cryed aloud, there is no judgement: which is a thing ſo con<g ref="char:EOLhyphen"/>trary to Religion, Conſcience good Na<g ref="char:EOLhyphen"/>ture, and the Honour of men profeſſing Principles of God and goodneſs, that I am very much aſtoniſhed to think of it; and that a Parliament, the Repreſentative Body of a Nation, which hath ſo abominated things of ſo unworthy a nature, with Declarations to the world of their reſolutions againſt ſuch things, and yet ſhould by the craft of any men whatſoever be kept from hearing ſuch doleful Outcries and Complaints, and not to vouchſafe an enquiry into the matter; to ſee whether it be according to the cry thereof yea or no. I am ſure ye may learn ſo much from the pure, holy, and juſt God, in the caſe of <hi>Sodom.</hi> Yea, though I have accuſed ſeveral ſorts of men with crimes of a very high nature, even breach of OATH againſt the great God, and Unfaithfulneſs to men; offences againſt which I am ſure you have declared in words to the Nation, with the greateſt indignation, zeal and de<g ref="char:EOLhyphen"/>teſtation of any Councel that ever ſate upon the face of the earth: and yet for you to ſuffer ſuch evils to go unpuniſhed, and ſuch complainers and cryers out for Juſtice againſt perſons of ſuch deſperate principles, to go continually empty away, will prove of very ſad conſequence. And for a man and his family to be ground even unto death, for the faithful diſcharge of Truſt re<g ref="char:EOLhyphen"/>poſed in him by Parliament, in the very time of Parliament ſit<g ref="char:EOLhyphen"/>ting by moſt cruel oppreſſive men exerciſing an Arbitrary power, and can obtain no relief, nor have any manner of juſtice againſt them, preſageth no good to this Nation.</p>
+            <pb n="2" facs="tcp:171233:2"/>
+            <p>Oh what juſt cauſe have we to cry out with the Prophet, <hi>We looked for judgement, but behold oppreſſion; for righteouſ<g ref="char:EOLhyphen"/>neſs, but behold a cry. Judgement is far from us, neither doth righteouſneſs come neer us. Judgement is turned back<g ref="char:EOLhyphen"/>ward, and juſtice ſtandeth afar off. Truth is fallen in the ſtreets, and equity cannot enter. Yea, truth faileth; and he that refraineth from evil, maketh himſelf a prey.</hi> Oh the experiences we have of theſe things! See we not evil men en<g ref="char:EOLhyphen"/>couraged in their evil ways, and the good diſcouraged in the ways of equity? Know we not that tranſgreſſion daily multi<g ref="char:EOLhyphen"/>plies, and evils enumerate, for want of the execution of impar<g ref="char:EOLhyphen"/>tial Juſtice? Did not all <hi>Iſrael</hi> fear <hi>Solomon,</hi> becauſe they ſaw that the wiſdom of God was in him to do juſtice? and yet will not you do juſtice, that ye may be feared alſo?</p>
+            <p>Oh the inſolence and violence of corrupt and unfaithful men! how mercileſs are they, becauſe the Powers frown upon ſuch who in ſincerity of heart, for publike ends diſcover their perfidi<g ref="char:EOLhyphen"/>ous and abominable actings! Oh what Powers do they unite, to deſtroy ſuch who are faithful in their generation! Good Lord! how long wilt thou ſuffer the Powers to be a <hi>terrour to good works,</hi> and <hi>the encouragement of evil!</hi> You did once cry out your ſelves, how grievous a curſe it would be, if God in judgement ſhould ſuffer the Power of this Nation to be made uſe of againſt it ſelf. (<hi>Book</hi> 1. <hi>Declar. p.</hi> 213.) But Oh how much greater would the curſe be, and more heavie judgement to this Nation, for the Sword of Juſtice to be made uſe of contrary to the end appointed by the wiſe God and Governour of the world!</p>
+            <p>There was a time when ye much complained of the late King's diſcountenance of honeſt men. (<hi>Book</hi> 1. <hi>Declar. p.</hi> 8, 9, 10.) Judges were turn'd out of their places, for refuſing to go againſt their Oathes and Conſciences; others ſo awed, that they durſt not do their duties? Lawyers were check'd for being faithful to their Clients: Sollicitors and Attorneys were threatned, and ſome puniſhed, for following lawful Suits; by which means, all the approaches to Juſtice were interrupted and forecluded, whereby the common Juſtice of the Nation was much endan<g ref="char:EOLhyphen"/>gered, not onely by opening ways of employment in places of
+<pb n="3" facs="tcp:171233:3"/> Truſt and Power, to men of weak parts, but giving occaſion to Bribery, Extortion, and Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiality. Honeſt men were ſo far from being employed in any Place of Truſt and Power, that they were neglected, diſcountenanced, and upon all occaſions injured and oppreſſed.</p>
+            <p>O worthy Patriots! are not ſuch evils to be as much abhor<g ref="char:EOLhyphen"/>red now as then? And are they not as deſtructiue to Humane ſociety now as then? Will not liberty given men to exerciſe Arbitrary power as ſurely bring deſtruction upon you and all that take part with you, as upon the late King and his adhe<g ref="char:EOLhyphen"/>rents? If the audaciouſneſs of men employed by you be ſuch, that they dare, even under your noſes, in the time of your ſitting, to trample upon and contemn all your Laws, and break your OATH, and, as it were in defiance of you and your Authority, admit of no other guide then their own Wills, What can be expected, but utter ruine and deſolation? The Law (ſaid M. <hi>Pym</hi>) puts a difference betwixt good and evil, betwixt juſt and unjuſt. Take away the Law, and all things will fall into confu<g ref="char:EOLhyphen"/>ſion; every man will become a Law unto himſelf: which, in the depraved condition of Humane nature, muſt needs produce ma<g ref="char:EOLhyphen"/>ny great enormities: Luſt will become a law, and Envie will be<g ref="char:EOLhyphen"/>come a law, Covetouſneſs and Ambition will become laws; and what dictates, what deciſions ſuch Laws will produce, may eaſily be diſcerned. And it may as eaſily be diſcerned, of what deſperate Principles ſuch men are, who dare upon all occaſions make uſe of the name of their God, to bring about their evil de<g ref="char:EOLhyphen"/>ſignes; and what the effects thereof will be. And is it not as clear, that <hi>BATEMAN, JENINGS,</hi> and <hi>R<g ref="char:V">Ʋ</g>SDEN</hi> had Laws to walk by? See elſe your Declarations, Ordinances, Or<g ref="char:EOLhyphen"/>ders, Inſtructions, and OATHS, from time to time, ſince 1643.</p>
+            <p>
+               <hi>April.</hi> 1. you ſaid it was moſt agreeable to common Juſtice, that the Sequeſtrations ſhould be converted and applied towards the ſupportation of the great charges of the Commonwealth, and for eaſing the good people therein. And if any perſon what<g ref="char:EOLhyphen"/>ſoever (<hi>Aug.</hi> 19. 1643.) ſhould wittingly or willingly conceal any the Sequeſtrations, That then he ſhould forfeit treble the va<g ref="char:EOLhyphen"/>lue thereof. Committees and Sequeſtrators were ſtrictly com<g ref="char:EOLhyphen"/>manded to uſe their beſt care and diligence in managing the ſaid
+<pb n="4" facs="tcp:171233:3"/> eſtates. (<hi>Nov.</hi> 18. 1643.) And in all particulars to guide them<g ref="char:EOLhyphen"/>ſelves by the Ordinances of Parliament. Complaints by you were made, that the unfaithful acting of Sequeſtrators and Committees was very prejudicial and diſſerviceable to the Com<g ref="char:EOLhyphen"/>monwealth: for remedy whereof, you impoſed on them an OATH, to prevent the like in time to come. (<hi>May</hi> 27, 1644.) And all Committees and Sollicitors for Sequeſtrations, were to return a Liſt of all eſtates that were or had been under Seque<g ref="char:EOLhyphen"/>ſtration, to Goldſmiths Hall <hi>London. (Nov.</hi> 10. 1646. And to whom the ſaid eſtates were let with the value of them before the Wars: that ſuch eſtates ſhould be let at the utmoſt improved yeerly value that any man would give for the ſame. (<hi>Decemb.</hi> 8. 1646.) That all Leaſes and Grants at under-value, ſhould be void. And for better regulating Sequeſtrations, and reforming and preventing abuſes therein, you did Ordain, that all Sollici<g ref="char:EOLhyphen"/>tors ſhould ſend up to the Treaſurers at Guild-Hall <hi>London,</hi> a true and perfect Inventory of all perſonal eſtates by them ſeque<g ref="char:EOLhyphen"/>ſtred, with an exact Particular of all annual Rents, Profits, and Fines ariſing or iſſuing of all Houſes and Lands. (<hi>Aug.</hi> 6. 1648) You did again (for the better regulating reforming, and prevent<g ref="char:EOLhyphen"/>ing of abuſes and miſcarriages in the managing the ſaid Seque<g ref="char:EOLhyphen"/>ſtrations) ordain, (<hi>Aug.</hi> 25. 1648.) that every perſon or per<g ref="char:EOLhyphen"/>ſons employed, or to be employed, ſhould take the Oath preſcri<g ref="char:EOLhyphen"/>bed by your Ordinance of <hi>May</hi> 27. 1643. And if any ſhould be found negligent, or not perform their duties (as you then fear<g ref="char:EOLhyphen"/>ed too many would not) you did then ordain, that Capt. <hi>Willi<g ref="char:EOLhyphen"/>am Stevenſon</hi> ſhould be authorized to bring all ſuch perſons to anſwer their contempt of Parliamentary authority, and to re<g ref="char:EOLhyphen"/>ceive condign puniſhment according to their demerits. And yet further to manifeſt your diſapprobation of the Sequeſtrators negligent managing the Sequeſtrations in the ſeveral Counties, and your own reſolutions and deſires to improve the ſame to the advantage of the Commonwealth, in order to abatement of ſome of the Taxes therein) did ſettle the ſame in the hands of the Commiſſioners (for compounding with Delinquents) and Sub<g ref="char:EOLhyphen"/>commiſſioners in the ſeveral Counties of <hi>England;</hi> and did en<g ref="char:EOLhyphen"/>gage every perſon employed in or about Sequeſtrations, under a moſt ſolemn OATH, preſcribed by your Act of <hi>April</hi> 15.
+<pb n="5" facs="tcp:171233:4"/> 1650. to put your Act of <hi>Jan.</hi> 29. 1649. in execution, with all Orders, Ordinances, and Inſtructions of Parliament, for the right managing thereof.</p>
+            <p>And truly, had not I ſeriouſly believed that you did really in<g ref="char:EOLhyphen"/>tend thoſe you employed ſhould have guided themſelves by your Laws and Inſtructions, I would never have run my ſelf upon ſo deſperate a Rock, in aſſerting and vindicating your power and Authority, which has proved very deſtructive to my ſelf and fa<g ref="char:EOLhyphen"/>mily; and yet you will not do me right againſt thoſe capital of<g ref="char:EOLhyphen"/>fenders I have ſo often complained of to this honourable Coun<g ref="char:EOLhyphen"/>cel: which is contrary to your engagements againſt ſuch offen<g ref="char:EOLhyphen"/>ders, and promiſes of encouragement to well-doers. I very well remember your reſolutions once, to inflict exemplary puniſhment upon all ſuch, according to their demerits, as ſhould be found re<g ref="char:EOLhyphen"/>fractory and diſobedient unto your commands made known to them; and that you would uſe all means to bring ſuch to a legal Trial for ſuch their offences. (<hi>Book</hi> 1. <hi>Decl. p.</hi> 696.) And you did faithfully promiſe and engage alſo, that ſuch perſons which perform their duties to the Publike, ſhould be protected and ſe<g ref="char:EOLhyphen"/>cured, in their perſons, liberties, and eſtates, by Authority of Par<g ref="char:EOLhyphen"/>liament: and this you would faithfully perform, according to your former engagements, as you then ſaid, (<hi>Book</hi> 1. <hi>Decl. p.</hi> 377.) You promiſed very ſolemnly alſo, that you would be willing and ready upon all occaſions, to aſſiſt and protect all thoſe that were employed in the Service of the Commonwealth in the Battel of <hi>Edge-hill,</hi> with your lives and fortunes, to the utmoſt of your power; and ordered the ſame to be recorded in Parliament. (<hi>Book</hi> 1. <hi>Decl.</hi> p. 744.) It's now above ten yeers ſince ye made this promiſe; which I have a right to in particu<g ref="char:EOLhyphen"/>lar. Neither was I faithful to this honorable Councel and Com<g ref="char:EOLhyphen"/>monwealth there onely, but have ſo continued ever ſince, and never brake my engagements, nor have I been found diſobedient to your commands: therefore I now expect aſſiſtance from this honourable Councel, according to your promiſes and ſolemn en<g ref="char:EOLhyphen"/>gagements, not onely at that time, but many times ſince. And I hope you will do me Juſtice, otherwiſe I ſee nothing but deſtru<g ref="char:EOLhyphen"/>ction attending me and my family: a very evil requital for my faithfulneſs, and a bad example to others: for if ſuch abomina<g ref="char:EOLhyphen"/>ble
+<pb n="6" facs="tcp:171233:4"/> things be ſuffered, what can be expected, but the filling the whole Nation with Bribery, Extortion, Partiality, Perjury, and all manner of oppreſſion and cruelty? For if moſt cruel oppreſ<g ref="char:EOLhyphen"/>ſion muſt be the portion of him which complains of ſuch offen<g ref="char:EOLhyphen"/>ces or offenders, Who will then complain, or who will be honeſt amongſt men? Nay, who dares to be honeſt, when he ſhall ſee another ſtript and whipt out of his livelihood for ſo being? But my caſe is ſuch at this time: I am moſt cruelly oppreſſed by un<g ref="char:EOLhyphen"/>reaſonable men, who have feloniouſly broken the Laws of this Nation and robbed me of my livelihood, and alſo endeavour to take away my good name; and all for being faithful to what you had engaged me by OATH; and yet to obtain no manner of Juſtice againſt them, nor the leaſt encouragement from this honourable Councel who employed me, being the Supreme Au<g ref="char:EOLhyphen"/>thority, is a very ſad thing to me and my family, and of a very dangerous nature to the Publike. And that all your Promiſes, Proteſtations, ſolemn OATHS and Imprecations, with your moſt tranſcendent, Declarations to the world on the behalf of Juſtice and Righteouſneſs, ſhould no more be regarded, is a fear<g ref="char:EOLhyphen"/>ful judgement, and a moſt grievous curſe upon this Nation. And for you to make ſo much ado about making Laws, and preſcri<g ref="char:EOLhyphen"/>bing Rules to walk by under ſeveral OATHS, to prevent Fraud and Cozenage, and yet not to hear complaints againſt ſuch, is moſt incredible to any who ſhall onely read your Declarations.</p>
+            <p>But further, may it pleaſe this honourable Councel, becauſe I would not, if it be poſſible, any more trouble you with ſuch ex<g ref="char:EOLhyphen"/>traordinary and unuſual Complaints and Outcries, the original hereof being the unparallell'd corruptions and wilful contempt of <hi>THO. BATEMAN, EDW. JENINGS,</hi> and <hi>JOHN R<g ref="char:V">Ʋ</g>SDEN,</hi> late Sub-commiſſioners for Sequeſtrations in the County of <hi>Berks,</hi> being authorized thereunto by your Act of <hi>Jan.</hi> 25. 1649. who had engaged themſelves under your moſt ſolemn OATH, preſcribed by your Act of <hi>April</hi> 15. 1650. yet notwithſtanding, though they had held up their hands, and ſworn by the Name of the eternal God, to walk according to your Laws and Inſtructions, they preſently turned their backs up<g ref="char:EOLhyphen"/>on all, as if they had neither feared God, nor reverenced man. Upon which, (about the beginning of <hi>November,</hi> 1650.) I,
+<pb n="7" facs="tcp:171233:5"/> in as Chriſtian like manner as poſſible I could conceive of, repair<g ref="char:EOLhyphen"/>ed to Haberdaſhers Hall, and in private acquainted the Commiſ<g ref="char:EOLhyphen"/>ſioners for Compounding with the ſame. They preſently pre<g ref="char:EOLhyphen"/>tended a great deal of good will towards me, ſaying they had heard ſo much as I then told them, by others; and further, that the Parliament would conſider ſuch men as I for our faithfulneſs. But after they had paus'd a little upon the buſineſs, they told me I muſt produce witneſs: and ſo they put me upon an expenſive way of proſecution, about four months together, before they would ſuffer the buſineſs to come to a hearing. And then they acquitted the ſaid Sub-commiſſioners, notwithſtanding I had produced 7 Witneſſes againſt them; who did alſo make it ap<g ref="char:EOLhyphen"/>pear by Oath upon Record, that the ſaid Subcommiſſioners were guilty of what I accuſed them with. Nevertheleſs, the Com<g ref="char:EOLhyphen"/>miſſioners for Compounding ſent them home to their Truſt which they had ſo much abuſed, but turned me out of mine.</p>
+            <p>And withal, the better to carry on their deſigne, they ſent one <hi>Gardner</hi> to be Agent to the ſaid Subcommiſſioners. After which, they went on in their old way of deceit about ten months with<g ref="char:EOLhyphen"/>out any alteration, as if, in defiance of the Parliament, or any that did proſecute them they would confirm all they had done. But I being ſtill in proſecution of the buſineſs againſt them, did, upon the firſt of <hi>January</hi> laſt, bring the buſineſs to another hear<g ref="char:EOLhyphen"/>ing: upon which day, I produced the evidence of above 40 Witneſſes more. And though it then appeared, by the teſtimony of above 70 Witneſſes that they damnified the Commonwealth above 1500 <hi>l. per an.</hi> yet would they not diſmiſs them in open Court to the terrour of evil doers, as they ought to have done, but deferred it till another day, and then did it in private. All which implies a grand Confederacie between the Commiſſioners and Subcommiſſioners; and indeed, muſt needs render the Par<g ref="char:EOLhyphen"/>liament unto the world as a meer cypher, and both the Com<g ref="char:EOLhyphen"/>miſſioners and Subcommiſſioners to be Lords Paramount unto them; neither would they reſtore me to my employment, but continue the ſaid <hi>Gardner</hi> to this day: and they were ſo far from giving me reparations, that they would not give me money ex<g ref="char:EOLhyphen"/>pended. So that although at firſt (as many can witneſs) honeſt, religious conſcientious godly men, was the character I gave of them; time and woful experience makes me confeſs my miſtake, and hath taught me to ſay, That they are more cruel then mur<g ref="char:EOLhyphen"/>therers, and more ungentile then common thieves.</p>
+            <p>Leaving the conſideration hereof to the conſideration of this honour<g ref="char:EOLhyphen"/>able Councel, I remain, expecting juſtice.</p>
+            <closer>
+               <signed>Chriſtopher Cheeſman.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
